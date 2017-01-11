@@ -1,0 +1,15 @@
+﻿{
+  "version": "1.0.0-*",
+
+    "dependencies": {
+        "CouchbaseNetClient": "2.4.0-dp3",
+        "Microsoft.AspNetCore.Identity": "1.1.0",
+        "NETStandard.Library": "1.6.1"
+    },
+
+  "frameworks": {
+    "netstandard1.6": {
+      "imports": "dnxcore50"
+    }
+  }
+}
